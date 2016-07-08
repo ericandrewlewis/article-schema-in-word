@@ -23,3 +23,7 @@ Navigate to `https://localhost:8443/`, get the cert and add it to your computer/
 Go to a Word Online document.
 
 In the menu bar click Insert > Add-Ins. Upload `manifest.xml`.
+
+## See also
+
+[The Word JavaScript API](https://dev.office.com/reference/add-ins/word/word-add-ins-reference-overview)
